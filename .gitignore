@@ -11,6 +11,9 @@
 # production
 /build
 
+# 
+*.neflify
+
 # misc
 .DS_Store
 .env.local
