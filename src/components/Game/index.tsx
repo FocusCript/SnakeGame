@@ -14,7 +14,7 @@ const getRandomCoordinates = () => {
 
 const initialState = {
   food: getRandomCoordinates(),
-  speed: 100,
+  speed: 50,
   direction: 'RIGHT',
   snakeDots: [
     [0,0],
